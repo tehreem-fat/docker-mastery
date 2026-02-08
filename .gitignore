@@ -1,0 +1,6 @@
+*.zip
+*.pem
+.aws/
+.cache/
+.ssh/
+__pycache__/
