@@ -15,3 +15,11 @@ docker run -d -p 8080:80 docker-mastery:latest
 ## Screenshot
 
 ![Website Screenshot](screenshots/screenshot1.png)
+
+## Skills Demonstrated
+- Docker containerization
+- Nginx web server
+- AWS ECR usage
+- EC2 deployment
+- Basic CI/CD concepts (optional)
+
